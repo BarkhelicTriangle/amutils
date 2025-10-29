@@ -1,4 +1,4 @@
-amutils: a mediocre (macOS) coreutils implementation
+amutils: a mediocre coreutils implementation
 ---
 Truthfully, amutils is not supposed to be useful. I mean, the goal is for this to eventually be fully compatible with GNU coreutils, but this is more or less a way for me to learn C and make something as i go.
 
