@@ -1,2 +1,2 @@
-exe = executable('true', sources: 'main.c')
+exe = executable('true', sources: 'true.c')
 test('basic', exe)
