@@ -8,3 +8,4 @@ project(
 )
 
 subproject('echo')
+subproject('true')

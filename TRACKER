@@ -1,3 +1,6 @@
 Current utilities that amutils implements (or is trying its best to)
 
-echo: currently non-functional (10/28/2025)
+Each utility has a rating from 1-3 based on how much faith I have in its current ability to work. 3 is really damn close (or identical) behavior to actual GNU coreutils, 1... it's trying its best.
+
+echo: [1: placeholder code] (10/28/2025)
+true: [3] (10/28/2025)
