@@ -7,5 +7,6 @@ project(
   subproject_dir: 'subprojects'
 )
 
+subproject('false')
 subproject('echo')
 subproject('true')
